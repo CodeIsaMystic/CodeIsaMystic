@@ -79,6 +79,6 @@ I used the B.E.M Methodology, the S.M.A.C.S.S files architecture and various not
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recog-api)](https://github.com/CodeIsaMystic/face-reco-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=setting-up-a-server)](https://github.com/CodeIsaMystic/SettingUpaServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](https://github.com/CodeIsaMystic/SettingUpaServer)
 
