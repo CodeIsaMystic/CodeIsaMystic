@@ -1,7 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3)
-
-
 <!--
 **CodeIsaMystic/CodeIsaMystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +16,11 @@ Here are some ideas to get you started:
 
 <div align="center">
 <h1>Julien Orjollet web developer as Jowd</h1>
+</div>
 
+![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3&label=views)
+
+<div>
 <br />
 
 <a href="#">
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
 ## Hello World 👋
 
 Inroducing myself, I'm Julien a "product oriented programmer", self-educated from France, working to upgrade my skills and experience learning with some of the best personnalities, professionnals, projects and contents I think we have chance to cross over the web. 
@@ -65,16 +64,20 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 
 
 
-## Case Study, for student case...
+## Loving learning...
 
-On project#.html files, I've tried to demonstrate some parts of problems I've worked on in a 3 projects choice. I focused only on 3 projects to have a better explanation to job I made, to add more details on what I've done sure but also on what I think it's important. Giving a overview of different topics, good approaches & practices. The Vai's website was a usefull helper to structure my work on those sections. 
+...have a better explanation to job I made, to add more details on what I've done sure but also on what I think it's important. Giving a overview of different topics, good approaches & practices. 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic&show_icons=true&theme=dracula)
+
 
 ## Design 
 
-Reading the Vai's Design was a nice experience, because it's so clean, with lots of "air space", defining patterns in a really great way. The components are clearly designed, the layouts are clean and the hard parts was to define a grid because of the richness and mix of patterns so different from each other. 
-I used the B.E.M Methodology, the S.M.A.C.S.S files architecture and various notions of designing websites attempting to have in mind a great visual of her design.
+Reading Design, having a nice user experience, think clean, pure and efficient! 
+Defining patterns in a really great way to. Blocks, Elements, Components are clearly, Customized and Optimized layouts are ..... of the richness and mix of patterns so different from each other. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic&show_icons=true&theme=dracula)
+I really love using Design Systems, files architecture organization, CSS 's B.E.M Methodology for classes or some other notions of designing websites attempting to have in mind a great visual of design.
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2)
