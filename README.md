@@ -7,7 +7,7 @@
       height=""
       width=""
       alt="screen of jowd portfolio"
-      src="https://i.ibb.co/55WFNmg/screen-portfolio-xs.png"
+      src="https://i.ibb.co/CP9k8kZ/screen-semplice-portfolio.png"
     />
   </a>
 
