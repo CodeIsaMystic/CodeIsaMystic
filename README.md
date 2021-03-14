@@ -7,7 +7,7 @@
       height=""
       width=""
       alt="screen of jowd portfolio"
-      src="https://ibb.co/SvR8NCq"
+      src="https://i.ibb.co/55WFNmg/screen-portfolio-xs.png"
     />
   </a>
 
@@ -29,7 +29,7 @@
     height=""
     width=""
     alt="squared portrait image"
-    src="https://ibb.co/FBbVS2L"
+    src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
   />
 </a>
 
