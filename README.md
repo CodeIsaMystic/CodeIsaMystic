@@ -1,7 +1,21 @@
 <!--**CodeIsaMystic/CodeIsaMystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
-  <h1>Julien Orjollet  </br > Web Developer as Jowd</h1>
+  
+  <a href="#">
+    <img
+      height=""
+      width=""
+      alt="screen of jowd portfolio"
+      src=""
+    />
+  </a>
+
+  <br />
+
+  <h1>
+    Julien Orjollet  </br > Web Developer as Jowd
+   </h1>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3&label=views)
@@ -21,17 +35,6 @@
 <br />
 
 <p>Welcome you can reach here everything about my github profile personals infos for professionals purposes</p>
-
-<br />
-
-<a href="#">
-  <img
-    height=""
-    width=""
-    alt="screen of jowd portfolio"
-    src=""
-  />
-</a>
 
 <br />
 
