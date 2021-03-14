@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **CodeIsaMystic/CodeIsaMystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,6 +65,14 @@ Inroducing myself, I'm Julien as Jowd another "unknown developer", self-educated
 
 
 ## Case Study, for student case...
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic&show_icons=true&theme=dracula)
+
+
+
+
+
 
 On project#.html files, I've tried to demonstrate some parts of problems I've worked on in a 3 projects choice. I focused only on 3 projects to have a better explanation to job I made, to add more details on what I've done sure but also on what I think it's important. Giving a overview of different topics, good approaches & practices. The Vai's website was a usefull helper to structure my work on those sections. 
 
