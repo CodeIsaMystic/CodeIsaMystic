@@ -1,7 +1,7 @@
 <!--**CodeIsaMystic/CodeIsaMystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div align="center">
-<h1>Julien Orjollet web developer as Jowd</h1>
+  <h1>Julien Orjollet  </br > Web Developer as Jowd</h1>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3&label=views)
@@ -20,7 +20,7 @@
 
 <br />
 
-<p> personals infos for professionals purposes</p>
+<p>Welcome you can reach here everything about my github profile personals infos for professionals purposes</p>
 
 <br />
 
@@ -52,6 +52,8 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 [Portfolio](https://website-project-adress-link/)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic&show_icons=true&theme=dracula)
+
 
 
 ## Loving learning...
@@ -59,7 +61,6 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 ...have a better explanation to job I made, to add more details on what I've done sure but also on what I think it's important. Giving a overview of different topics, good approaches & practices. 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic&show_icons=true&theme=dracula)
 
 
 ## Design 
@@ -71,8 +72,6 @@ I really love using Design Systems, files architecture organization, CSS 's B.E.
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2)
-</br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](https://github.com/CodeIsaMystic/SettingUpaServer)
+</br> <= here a repo about a work on greensock and barbajs mainly. the nex step will be to refactor all javascript code to be cleaner, maybe with functional programming in a way more organized. 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation) 
 
