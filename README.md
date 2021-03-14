@@ -75,3 +75,10 @@ Reading the Vai's Design was a nice experience, because it's so clean, with lots
 I used the B.E.M Methodology, the S.M.A.C.S.S files architecture and various notions of designing websites attempting to have in mind a great visual of her design.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic&show_icons=true&theme=dracula)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recog-api)](https://github.com/CodeIsaMystic/face-reco-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=setting-up-a-server)](https://github.com/CodeIsaMystic/SettingUpaServer)
+
