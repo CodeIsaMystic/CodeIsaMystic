@@ -7,11 +7,12 @@
       height=""
       width=""
       alt="screen of jowd portfolio"
-      src=""
+      src="https://ibb.co/SvR8NCq"
     />
   </a>
 
   <br />
+
 
   <h1>
     Julien Orjollet  </br > Web Developer as Jowd
@@ -28,7 +29,7 @@
     height=""
     width=""
     alt="squared portrait image"
-    src=""
+    src="https://ibb.co/FBbVS2L"
   />
 </a>
 
