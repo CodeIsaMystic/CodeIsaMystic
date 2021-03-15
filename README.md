@@ -15,8 +15,10 @@
 
 
   <h1>
-    Julien Orjollet  </br > Web Developer as Jowd
+    Julien Orjollet  </br > as Jowd
    </h1>
+   
+   <h2>"Product oriented programmer"</h2>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3&label=views)
