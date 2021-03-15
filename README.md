@@ -74,7 +74,7 @@ Defining patterns in a really great way to. Blocks, Elements, Components are cle
 I really love using Design Systems, files architecture organization, CSS 's B.E.M Methodology for classes or some other notions of designing websites attempting to have in mind a great visual of design.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2) </br>
 Here a repo about a work on greensock and barbajs mainly. the nex step will be to refactor all javascript code to be cleaner, maybe with functional programming in a way more organized. 
 </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation) 
