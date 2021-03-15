@@ -12,13 +12,9 @@
   </a>
 
   <br />
-
-
-  <h1>
-    Julien Orjollet  </br > as Jowd
-   </h1>
    
    <h2>"Product oriented programmer"</h2>
+   
 </div>
 
 ![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3&label=views)
@@ -26,14 +22,15 @@
 <div align="center">
 <br />
 
-<a href="#">
-  <img
-    height=""
-    width=""
-    alt="squared portrait image"
-    src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
-  />
-</a>
+<img
+  height=""
+  width=""
+  alt="squared portrait image"
+  src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
+/>
+
+
+  <h1>Julien Orjollet</br > as Jowd</h1>
 
 <br />
 
