@@ -1,4 +1,5 @@
 <!--**CodeIsaMystic/CodeIsaMystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3&label=views)
 
 <div align="center">
   
@@ -17,7 +18,6 @@
    
 </div>
 
-![](https://komarev.com/ghpvc/?username=CodeIsaMystic&color=EFE7E3&label=views)
 
 <div align="center">
 <br />
