@@ -78,4 +78,7 @@ I really love using Design Systems, files architecture organization, CSS 's B.E.
 Here a repo about a work on greensock and barbajs mainly. the nex step will be to refactor all javascript code to be cleaner, maybe with functional programming in a way more organized. 
 </br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/newTrillo-project) 
+
+
 
