@@ -73,6 +73,8 @@ Defining patterns in a really great way to. Blocks, Elements, Components are cle
 
 I really love using Design Systems, files architecture organization, CSS 's B.E.M Methodology for classes or some other notions of designing websites attempting to have in mind a great visual of design.
 
+</br>
+</br>
 
 ### Creative Web
 
@@ -85,6 +87,9 @@ Here some repos about a workshop on greensock and barbajs mainly.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=awww-page-animation-scroll-magic)](https://github.com/CodeIsaMystic/awww-page-animation-scroll-magic) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation) 
 
+</br>
+</br>
+
 ### CSS Mockups
 Some others CSS Mockups, work on B.E.M Methodology, SASS / PostCSS preprocessors, CSS Grids Layouts & Animations...  
 </br>
@@ -94,6 +99,29 @@ Some others CSS Mockups, work on B.E.M Methodology, SASS / PostCSS preprocessors
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=newGrand-hotel-project)](https://github.com/CodeIsaMystic/newGrand-hotel-project) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=DB-sportsandevents)](https://github.com/CodeIsaMystic/DB-sportsandevents) 
 
+</br>
+</br>
+
+### Bootstrap Mockups
+Some Bootstrap 4 admin dashboard...  
+</br>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dashboard-light-theme)](https://github.com/CodeIsaMystic/dashboard-light-theme) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dbsh-admin)](https://github.com/CodeIsaMystic/dbsh-admin) 
+
+</br>
+</br>
+
+### Helpers files
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=seo-helper)](https://github.com/CodeIsaMystic/seo-helper) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=webpack-from-scratch)](https://github.com/CodeIsaMystic/webpack-from-scratch) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=webpack-understanding)](https://github.com/CodeIsaMystic/webpack-understanding) 
+
+</br>
+</br>
+
 ### PHP workshop
 Some basics stuff about php language.  
 </br>
@@ -101,12 +129,18 @@ Some basics stuff about php language.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=php-basic-blog)](https://github.com/CodeIsaMystic/php-basic-blog) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=practical-basic-navigation)](https://github.com/CodeIsaMystic/practical-basic-navigation) 
 
+</br>
+</br>
+
 ### Express.js 
 Basics Server with Express.js.  
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](
 https://github.com/CodeIsaMystic/SettingUpaServer) 
+
+</br>
+</br>
 
 ### Reactjs.org 
 Some React app from various workshop manipulating APIs, React Hooks, Redux..   
@@ -119,5 +153,39 @@ Some React app from various workshop manipulating APIs, React Hooks, Redux..
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recognition)](https://github.com/CodeIsaMystic/face-recognition) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-redux)](https://github.com/CodeIsaMystic/intermediate-react-redux) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-typescript)](https://github.com/CodeIsaMystic/intermediate-react-typescript) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=complete-intro-to-react-jowd)](https://github.com/CodeIsaMystic/complete-intro-to-react-jowd) 
+
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Complex-react-app)](https://github.com/CodeIsaMystic/Complex-react-app) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Backend-api-react-app)](https://github.com/CodeIsaMystic/Backend-api-react-app) 
+
+</br>
+</br>
+
+### Testing
+Starting Working with Tests...
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-react-app-todayILearned)](https://github.com/CodeIsaMystic/testing-react-app-todayILearned) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=test-robotfriends-pwa)](https://github.com/CodeIsaMystic/test-robotfriends-pwa) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-workshop)](https://github.com/CodeIsaMystic/testing-workshop) 
+
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-simple-react-app)](https://github.com/CodeIsaMystic/testing-simple-react-app) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-simple-calculator-app)](https://github.com/CodeIsaMystic/testing-simple-calculator-app) 
+
+
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=jest-test-exe)](https://github.com/CodeIsaMystic/jest-test-exe) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=setup-jest-math)](https://github.com/CodeIsaMystic/setup-jest-math) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=jest-configuration)](https://github.com/CodeIsaMystic/jest-configuration) 
 
 
