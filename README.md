@@ -99,8 +99,28 @@ Some others CSS Mockups, work on B.E.M Methodology, SASS / PostCSS preprocessors
 Some basics stuff about php language.  
 </br>
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=php-basic-blog)](https://github.com/CodeIsaMystic/php-basic-blog) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=practical-basic-navigation)](https://github.com/CodeIsaMystic/practical-basic-navigation) 
+
+### Express.js 
+</br>
+Basics Server with Express.js.  
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](
+https://github.com/CodeIsaMystic/SettingUpaServer) 
+
+### Reactjs.org 
+</br>
+Some React app from various workshop manipulating APIs, React Hooks, Redux..   
+</br>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=crwn-clothing-app)](https://github.com/CodeIsaMystic/crwn-clothing-app) 
+
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recognition)](https://github.com/CodeIsaMystic/face-recognition) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
 
 
