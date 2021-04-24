@@ -74,11 +74,19 @@ Defining patterns in a really great way to. Blocks, Elements, Components are cle
 I really love using Design Systems, files architecture organization, CSS 's B.E.M Methodology for classes or some other notions of designing websites attempting to have in mind a great visual of design.
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2) </br>
-Here a repo about a work on greensock and barbajs mainly. the nex step will be to refactor all javascript code to be cleaner, maybe with functional programming in a way more organized. 
+### Creative Web
 </br>
+Here some repos about a workshop on greensock and barbajs mainly.  
+</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=pen-reveal-on-scroll)](https://github.com/CodeIsaMystic/pen-reveal-on-scroll) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=awww-page-animation-scroll-magic)](https://github.com/CodeIsaMystic/awww-page-animation-scroll-magic) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation) 
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=newTrillo-project)](https://github.com/CodeIsaMystic/newTrillo-project) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Natours-project)](https://github.com/CodeIsaMystic/Natours-project) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=newGrand-hotel-project)](https://github.com/CodeIsaMystic/newGrand-hotel-project) 
 
 
 
