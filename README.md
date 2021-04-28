@@ -116,8 +116,16 @@ Some Bootstrap 4 admin dashboard...
 ### Helpers files
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=seo-helper)](https://github.com/CodeIsaMystic/seo-helper) 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=learning-roadmap)](https://github.com/CodeIsaMystic/learning-roadmap) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=frontendmasters)](https://github.com/CodeIsaMystic/frontendmasters)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=jest-configuration)](https://github.com/CodeIsaMystic/jest-configuration) 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=webpack-from-scratch)](https://github.com/CodeIsaMystic/webpack-from-scratch) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=webpack-understanding)](https://github.com/CodeIsaMystic/webpack-understanding) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=simple-starter-with-webpack-and-babel-for-react-app)](https://github.com/CodeIsaMystic/simple-starter-with-webpack-and-babel-for-react-app) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=webpack-final)](https://github.com/CodeIsaMystic/webpack-final) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=babel-loader)](https://github.com/CodeIsaMystic/babel-loader) 
 
 </br>
 </br>
