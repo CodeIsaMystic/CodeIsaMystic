@@ -34,7 +34,7 @@
 
 <br />
 
-<p>Welcome you can reach here everything about my github profile personals infos for professionals purposes</p>
+<p>Welcome!!  You can reach here everything about my github profile, some personals infos for professionals purposes</p>
 
 <br />
 
@@ -81,8 +81,6 @@ I really love using Design Systems, files architecture organization, CSS 's B.E.
 ### Creative Web
 
 Here some repos about a workshop on greensock and barbajs mainly.  
-</br>
-</br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=pen-reveal-on-scroll)](https://github.com/CodeIsaMystic/pen-reveal-on-scroll) 
@@ -94,7 +92,6 @@ Here some repos about a workshop on greensock and barbajs mainly.
 
 ### CSS Mockups
 Some others CSS Mockups, work on B.E.M Methodology, SASS / PostCSS preprocessors, CSS Grids Layouts & Animations...  
-</br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=newTrillo-project)](https://github.com/CodeIsaMystic/newTrillo-project) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Natours-project)](https://github.com/CodeIsaMystic/Natours-project) 
@@ -106,8 +103,6 @@ Some others CSS Mockups, work on B.E.M Methodology, SASS / PostCSS preprocessors
 
 ### Bootstrap Mockups
 Some Bootstrap 4 admin dashboard...  
-</br>
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dashboard-light-theme)](https://github.com/CodeIsaMystic/dashboard-light-theme) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dbsh-admin)](https://github.com/CodeIsaMystic/dbsh-admin) 
@@ -130,8 +125,6 @@ Some Bootstrap 4 admin dashboard...
 
 ### PHP workshop
 Some basics stuff about php language.  
-</br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=php-basic-blog)](https://github.com/CodeIsaMystic/php-basic-blog) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=practical-basic-navigation)](https://github.com/CodeIsaMystic/practical-basic-navigation) 
 
@@ -140,8 +133,6 @@ Some basics stuff about php language.
 
 ### Express.js 
 Basics Server with Express.js.  
-</br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](
 https://github.com/CodeIsaMystic/SettingUpaServer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
@@ -151,17 +142,11 @@ https://github.com/CodeIsaMystic/SettingUpaServer)
 
 ### Reactjs.org 
 Some React app from various workshop manipulating APIs, React Hooks, Redux..   
-
-</br>
-</br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recognition)](https://github.com/CodeIsaMystic/face-recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=complete-intro-to-react-jowd)](https://github.com/CodeIsaMystic/complete-intro-to-react-jowd) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-redux)](https://github.com/CodeIsaMystic/intermediate-react-redux) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-typescript)](https://github.com/CodeIsaMystic/intermediate-react-typescript) 
-
-
 
 </br>
 
@@ -173,20 +158,16 @@ Some React app from various workshop manipulating APIs, React Hooks, Redux..
 
 ### Testing
 Firsts Tests works...
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-react-app-todayILearned)](https://github.com/CodeIsaMystic/testing-react-app-todayILearned) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=test-robotfriends-pwa)](https://github.com/CodeIsaMystic/test-robotfriends-pwa) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-simple-react-app)](https://github.com/CodeIsaMystic/testing-simple-react-app)
-
 
 </br>
 </br>
 
 ### Jest
 Starting Working with Jest...
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=jest-test-exe)](https://github.com/CodeIsaMystic/jest-test-exe) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=setup-jest-math)](https://github.com/CodeIsaMystic/setup-jest-math) 
 
