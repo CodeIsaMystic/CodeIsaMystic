@@ -10,13 +10,11 @@
     src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
   />
 
-  <h1>Julien Orjollet</br >as Jowd</h1>
-  
-   <br />
-   
-   <h2>"Software Developer"</h2>
+  <h1>Julien Orjollet</h1>
 
-   <br />
+  <h2>"Software Developer"</h2>
+
+  <br />
   
   
   
