@@ -45,9 +45,7 @@
 Inroducing myself, I'm Julien a "product oriented programmer", self-educated from France, working to upgrade my skills and experience learning with some of the best personnalities, professionnals, projects and contents I think we have chance to cross over the web. 
 
 - 🌱 I’m currently learning, upgrading my skills. Trying to mastering some and be more confortable (professional) with others.
-- 🔭 I’m currently working on my portfolio, a student single page app and functional programming.
-- 👯 I’m looking to collaborate on any project I can possibly participate, so go on, you can ask me...
-- 🤔 I’m looking for help with Javascript or React maybe 😄
+- 🔭 I’m currently working on my portfolio, and a student project, a single page app.
 - 💬 Ask me about anything ...
 - 📫 How to reach me: julienorjollet.wd@gmail.com
 - ⚡ Book: Clean Code of Robert C.Martin
@@ -59,19 +57,23 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 
 
 
-## Loving learning...
+## Still learning...
 
 ...have a better explanation to job I made, to add more details on what I've done sure but also on what I think it's important. Giving a overview of different topics, good approaches & practices. 
 
 
+## Coding is a lifestyle
 
 
-## Design 
+## Designing things 
 
 Reading Design, having a nice user experience, think clean, pure and efficient! 
 Defining patterns in a really great way to. Blocks, Elements, Components are clearly, Customized and Optimized layouts are ..... of the richness and mix of patterns so different from each other. 
 
 I really love using Design Systems, files architecture organization, CSS 's B.E.M Methodology for classes or some other notions of designing websites attempting to have in mind a great visual of design.
+
+## Focusing the products
+
 
 </br>
 </br>
