@@ -145,7 +145,8 @@ Basics Server with Express.js.
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](
-https://github.com/CodeIsaMystic/SettingUpaServer) 
+https://github.com/CodeIsaMystic/SettingUpaServer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
 
 </br>
 </br>
@@ -160,7 +161,6 @@ Some React app from various workshop manipulating APIs, React Hooks, Redux..
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recognition)](https://github.com/CodeIsaMystic/face-recognition) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-redux)](https://github.com/CodeIsaMystic/intermediate-react-redux) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-typescript)](https://github.com/CodeIsaMystic/intermediate-react-typescript) 
