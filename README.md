@@ -3,7 +3,24 @@
 
 <div align="center">
   
-  <a href="#">
+  <img
+    height=""
+    width=""
+    alt="squared portrait image"
+    src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
+  />
+
+  <h1>Julien Orjollet</br >as Jowd</h1>
+  
+   <br />
+   
+   <h2>"Software Developer"</h2>
+
+   <br />
+  
+  
+  
+  <a href="https://codeisamystic.github.io/semplice-clone-portfolio/">
     <img
       height=""
       width=""
@@ -12,25 +29,6 @@
     />
   </a>
 
-  <br />
-   
-   <h2>"Product oriented programmer"</h2>
-   
-</div>
-
-
-<div align="center">
-<br />
-
-<img
-  height=""
-  width=""
-  alt="squared portrait image"
-  src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
-/>
-
-
-  <h1>Julien Orjollet</br >as Jowd</h1>
 
 <br />
 
