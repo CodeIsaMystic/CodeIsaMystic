@@ -153,23 +153,22 @@ https://github.com/CodeIsaMystic/SettingUpaServer)
 
 ### Reactjs.org 
 Some React app from various workshop manipulating APIs, React Hooks, Redux..   
-</br>
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=crwn-clothing-app)](https://github.com/CodeIsaMystic/crwn-clothing-app) 
 
 </br>
+</br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recognition)](https://github.com/CodeIsaMystic/face-recognition) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recognition)](https://github.com/CodeIsaMystic/face-recognition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=complete-intro-to-react-jowd)](https://github.com/CodeIsaMystic/complete-intro-to-react-jowd) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-redux)](https://github.com/CodeIsaMystic/intermediate-react-redux) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-typescript)](https://github.com/CodeIsaMystic/intermediate-react-typescript) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=complete-intro-to-react-jowd)](https://github.com/CodeIsaMystic/complete-intro-to-react-jowd) 
+
 
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Complex-react-app)](https://github.com/CodeIsaMystic/Complex-react-app) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Complex-react-app)](https://github.com/CodeIsaMystic/Complex-react-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=crwn-clothing-app)](https://github.com/CodeIsaMystic/crwn-clothing-app)  
 
 </br>
 </br>
@@ -192,6 +191,5 @@ Starting Working with Jest...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=jest-test-exe)](https://github.com/CodeIsaMystic/jest-test-exe) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=setup-jest-math)](https://github.com/CodeIsaMystic/setup-jest-math) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=jest-configuration)](https://github.com/CodeIsaMystic/jest-configuration) 
 
 
