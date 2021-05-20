@@ -53,10 +53,14 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 
 ## Still learning...
 
-...have a better explanation to job I made, to add more details on what I've done sure but also on what I think it's important. Giving a overview of different topics, good approaches & practices. 
+...since 2017, I've started to code on my first ugly projects, I'm now figuring out how tobuild some nice stuff, attempting to be more professionnal every days. I'm following road maps, a learning plans, the trends and working on it. 
 
 
-## Coding is a lifestyle
+## Coding as a lifestyle
+
+Coding don't necessary need to be a "passion", the main thing it's to love what you're doing day after day. 
+It's just need to adapt your lifestyle, getting some challenge and being aware of what you can and have to do in a special situation...
+After that, it's just cool struggling with issues and the main part of your time you just enjoy programming.
 
 
 ## Designing things 
@@ -64,9 +68,13 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 Reading Design, having a nice user experience, think clean, pure and efficient! 
 Defining patterns in a really great way to. Blocks, Elements, Components are clearly, Customized and Optimized layouts are ..... of the richness and mix of patterns so different from each other. 
 
-I really love using Design Systems, files architecture organization, CSS 's B.E.M Methodology for classes or some other notions of designing websites attempting to have in mind a great visual of design.
+I really love the principals of Design Systems, files architecture organization, CSS's B.E.M Approach or some other notions of designing websites attempting to have in mind a great idea of a visual.
 
 ## Focusing the products
+
+Some coders just love programming. They just think in terms of "algo", how doing more and more in their programs, making a bad ugly bootsrap UI just to make their program works. And it's fine! I just can not work this way, I really need to think the utlity of my job is fully related with the User Experience they could have with my product. And even I have to go less deeper on the algo, I want my product is a kind of "well design" and complete.
+
+I cannot develop a software without thinking the potentials issues we could encounter. I have to focus globally of a problem, that's my way to do, I just make the product primordial.
 
 
 </br>
@@ -122,7 +130,7 @@ Some Bootstrap 4 admin dashboard...
 Some basics stuff about php language.  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=php-basic-blog)](https://github.com/CodeIsaMystic/php-basic-blog) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=practical-basic-navigation)](https://github.com/CodeIsaMystic/practical-basic-navigation) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dbsh-cms-project)](https://github.com/CodeIsaMystic/dbsh-cms-project) 
 
 </br>
 </br>
