@@ -66,15 +66,18 @@ After that, it's just cool struggling with issues and the main part of your time
 ## Designing things 
 
 Reading Design, having a nice user experience, think clean, pure and efficient! 
-Defining patterns in a really great way to. Blocks, Elements, Components are clearly, Customized and Optimized layouts are ..... of the richness and mix of patterns so different from each other. 
+Defining patterns in a really great way to. Blocks, Elements, Components need to be clearly defined. Customizing and Optimizing layouts is realy great chalenge. 
+That's so gratifying using the richness and the mix of patterns which are so different from each other. 
 
 I really love the principals of Design Systems, files architecture organization, CSS's B.E.M Approach or some other notions of designing websites attempting to have in mind a great idea of a visual.
 
 ## Focusing the products
 
-Some coders just love programming. They just think in terms of "algo", how doing more and more in their programs, making a bad ugly bootsrap UI just to make their program works. And it's fine! I just can not work this way, I really need to think the utlity of my job is fully related with the User Experience they could have with my product. And even I have to go less deeper on the algo, I want my product is a kind of "well design" and complete.
+Some coders just love programming. They just think in terms of "algo", how doing more and more in their programs, making a bad ugly bootsrap UI just to make their program works. And that's fine! 
+I just can not work this way, I really need to think the utility of my job is fully related with the User Experience they could have with my product. And even I have to go less deeper on the algo, I want my product is a kind of "well design", "clean code" and complete.
 
-I cannot develop a software without thinking the potentials issues we could encounter. I have to focus globally of a problem, that's my way to do, I just make the product primordial.
+I cannot develop a software without thinking the potentials issues we could encounter. I have to focus globally of a problem, that's my way to do.
+I just make the product primordial.
 
 
 </br>
