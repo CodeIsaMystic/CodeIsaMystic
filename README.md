@@ -44,7 +44,11 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 - 📫 How to reach me: julienorjollet.wd@gmail.com
 - ⚡ Book: Clean Code of Robert C.Martin
 
-[Portfolio](https://codeisamystic.github.io/semplice-clone-portfolio/)
+<br />
+
+You can reach here [my Portfolio](https://codeisamystic.github.io/semplice-clone-portfolio/) (</ still in dev process >).
+
+<br />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeIsaMystic&show_icons=true&theme=dracula)
