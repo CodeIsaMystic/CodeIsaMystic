@@ -18,8 +18,8 @@
   
   <a href="https://codeisamystic.github.io/semplice-clone-portfolio/">
     <img
-      height=""
-      width=""
+      height="auto"
+      width="100%"
       alt="screen of jowd portfolio"
       src="https://i.ibb.co/CP9k8kZ/screen-semplice-portfolio.png"
     />
