@@ -5,7 +5,7 @@
   
   <img
     height="auto"
-    width="50%"
+    width="10%"
     alt="squared portrait image"
     src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
   />
