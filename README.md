@@ -4,8 +4,8 @@
 <div align="center">
   
   <img
-    height=""
-    width=""
+    height="auto"
+    width="50%"
     alt="squared portrait image"
     src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
   />
