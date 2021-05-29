@@ -70,17 +70,17 @@ After that, it's just cool struggling with issues. It's just enjoying struggling
 ## Designing things 
 
 Reading Design, having a nice user experience, think clean, pure and efficient! 
-Defining patterns in a really great way to. Defining "Blocks, Elements, Components" needs to be clearly visualized. Customizing and Optimizing layouts is a really great challenge. 
-That's so gratifying using the richness and the mix of patterns which are so different from each other. 
+Customizing and Optimizing layouts is a really great challenge. Defining "Blocks, Elements, Components" needs to be clearly visualized. Defining patterns in a really great way to.
+That's so gratifying to play around with the mix of patterns which are so different and starting manipulate. 
 
-I really love the principals of Design Systems, files architecture organization, CSS's B.E.M Approach or some other notions of designing websites attempting to have in mind a great idea of a visual.
+I really love the principals of Design Systems, files architecture organization, CSS's B.E.M approach or some other notions of designing websites attempting to have in mind a great idea of a visual.
 
 Designs also must have to consider all the importance of accessibility and must be rich of content.
 
 ## Focusing the products
 
-Some coders just love programming, just think in terms of "algo". They're going deeper on the program, for sure, making a bad ugly bootsrap UI ;) just to make it works and that's fine, we just need advanced programs! 
-I'm just not following this way... I need to think the utility of my job is fully related with the User Experience they could have with the product. And even I have to go slowly in terms of programs, I just want my product is a kind of well design, "clean code", complete and my program simply efficient.
+Some coders just love programming, just think in terms of "algo". They're going deeper on the program, for sure, making a bad ugly bootsrap UI ;) just to make it works and that's fine, we just need advanced stuffs! 
+I'm just not following this way... I need to think the utility of my work is fully related with the User Experience they could have with the product. And even I have to go slowly in terms of programs, I just want my product is a kind of well design, "clean code", complete and simply efficient.
 
 I cannot develop a software without thinking the potentials issues we could encounter globally. I have to looking at a problem in a User Experience focus, that's my way to do.
 I just make the product primordial.
