@@ -57,30 +57,32 @@ You can reach here [my Portfolio](https://codeisamystic.github.io/semplice-clone
 
 ## Still learning...
 
-...since 2017, I've started to code on my first ugly projects, I'm now figuring out how tobuild some nice stuff, attempting to be more professionnal every days. I'm following road maps, a learning plans, the trends and working on it. 
+...since 2017, I've started to code on my first ugly projects, I'm now figuring out how to build some nice stuff, attempting to be more professionnal every days. I'm following road maps, a learning plans, the trends and working on it. 
 
 
 ## Coding as a lifestyle
 
-Coding don't necessary need to be a "passion", the main thing it's to love what you're doing day after day. 
-It's just need to adapt your lifestyle, getting some challenge and being aware of what you can and have to do in a special situation...
-After that, it's just cool struggling with issues and the main part of your time you just enjoy programming.
+I think that coding don't necessary need to be a "passion", the main thing it's to love what you're doing day after day. 
+It's just need to adapt your lifestyle, getting some challenges and being aware of what you can and have to do in a special situation...
+After that, it's just cool struggling with issues and the main part of your time you just enjoy struggling with programs.
 
 
 ## Designing things 
 
 Reading Design, having a nice user experience, think clean, pure and efficient! 
-Defining patterns in a really great way to. Blocks, Elements, Components need to be clearly defined. Customizing and Optimizing layouts is realy great chalenge. 
+Defining patterns in a really great way to. Blocks, Elements, Components being clearly defined. Customizing and Optimizing layouts is really great challenge. 
 That's so gratifying using the richness and the mix of patterns which are so different from each other. 
 
 I really love the principals of Design Systems, files architecture organization, CSS's B.E.M Approach or some other notions of designing websites attempting to have in mind a great idea of a visual.
 
+Designs also must have to consider all the importance of accessibility and be rich of content.
+
 ## Focusing the products
 
-Some coders just love programming. They just think in terms of "algo", how doing more and more in their programs, making a bad ugly bootsrap UI just to make their program works. And that's fine! 
-I just can not work this way, I really need to think the utility of my job is fully related with the User Experience they could have with my product. And even I have to go less deeper on the algo, I want my product is a kind of "well design", "clean code" and complete.
+Some coders just love programming, just think in terms of "algo". They're going more deeply on the program,for sure, making a bad ugly bootsrap UI ;) just to make it works and that's fine! 
+I'm just not following this way... I need to think the utility of my job is fully related with the User Experience they could have with the product. And even I have to go slowly in terms of programs, I just want my product is a kind of well design, "clean code", complete and my program simply efficient.
 
-I cannot develop a software without thinking the potentials issues we could encounter. I have to focus globally of a problem, that's my way to do.
+I cannot develop a software without thinking the potentials issues we could encounter globally. I have to focus a problem in a User Experience focus, that's my way to do.
 I just make the product primordial.
 
 
