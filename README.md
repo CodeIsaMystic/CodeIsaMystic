@@ -64,25 +64,25 @@ You can reach here [my Portfolio](https://codeisamystic.github.io/semplice-clone
 
 I think that coding don't necessary need to be a "passion", the main thing it's to love what you're doing day after day. 
 It's just need to adapt your lifestyle, getting some challenges and being aware of what you can and have to do in a special situation...
-After that, it's just cool struggling with issues and the main part of your time you just enjoy struggling with programs.
+After that, it's just cool struggling with issues. It's just enjoying struggling with programs.
 
 
 ## Designing things 
 
 Reading Design, having a nice user experience, think clean, pure and efficient! 
-Defining patterns in a really great way to. Blocks, Elements, Components being clearly defined. Customizing and Optimizing layouts is really great challenge. 
+Defining patterns in a really great way to. Defining "Blocks, Elements, Components" needs to be clearly visualized. Customizing and Optimizing layouts is a really great challenge. 
 That's so gratifying using the richness and the mix of patterns which are so different from each other. 
 
 I really love the principals of Design Systems, files architecture organization, CSS's B.E.M Approach or some other notions of designing websites attempting to have in mind a great idea of a visual.
 
-Designs also must have to consider all the importance of accessibility and be rich of content.
+Designs also must have to consider all the importance of accessibility and must be rich of content.
 
 ## Focusing the products
 
-Some coders just love programming, just think in terms of "algo". They're going more deeply on the program,for sure, making a bad ugly bootsrap UI ;) just to make it works and that's fine! 
+Some coders just love programming, just think in terms of "algo". They're going deeper on the program, for sure, making a bad ugly bootsrap UI ;) just to make it works and that's fine, we just need advanced programs! 
 I'm just not following this way... I need to think the utility of my job is fully related with the User Experience they could have with the product. And even I have to go slowly in terms of programs, I just want my product is a kind of well design, "clean code", complete and my program simply efficient.
 
-I cannot develop a software without thinking the potentials issues we could encounter globally. I have to focus a problem in a User Experience focus, that's my way to do.
+I cannot develop a software without thinking the potentials issues we could encounter globally. I have to looking at a problem in a User Experience focus, that's my way to do.
 I just make the product primordial.
 
 
