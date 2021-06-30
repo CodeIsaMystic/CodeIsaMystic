@@ -132,6 +132,7 @@ Basics Server with Express.js.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](
 https://github.com/CodeIsaMystic/SettingUpaServer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=random-word-server-api)](https://github.com/CodeIsaMystic/random-word-server-api) 
 
 </br>
 </br>
