@@ -113,15 +113,6 @@ Some others CSS Mockups, work on B.E.M Methodology, SASS / PostCSS preprocessors
 </br>
 </br>
 
-### Bootstrap Mockups
-Some Bootstrap 4 admin dashboard...  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dashboard-light-theme)](https://github.com/CodeIsaMystic/dashboard-light-theme) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dbsh-admin)](https://github.com/CodeIsaMystic/dbsh-admin) 
-
-</br>
-</br>
-
 ### Helpers files
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=seo-helper)](https://github.com/CodeIsaMystic/seo-helper)
@@ -131,15 +122,6 @@ Some Bootstrap 4 admin dashboard...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=simple-starter-with-webpack-and-babel-for-react-app)](https://github.com/CodeIsaMystic/simple-starter-with-webpack-and-babel-for-react-app) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=webpack-final)](https://github.com/CodeIsaMystic/webpack-final) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=babel-loader)](https://github.com/CodeIsaMystic/babel-loader) 
-
-</br>
-</br>
-
-### PHP workshop
-Some basics stuff about php language.  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=php-basic-blog)](https://github.com/CodeIsaMystic/php-basic-blog) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dbsh-cms-project)](https://github.com/CodeIsaMystic/dbsh-cms-project) 
 
 </br>
 </br>
@@ -178,14 +160,3 @@ Firsts Tests works...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=test-robotfriends-pwa)](https://github.com/CodeIsaMystic/test-robotfriends-pwa) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-simple-react-app)](https://github.com/CodeIsaMystic/testing-simple-react-app)
-
-</br>
-</br>
-
-### Jest
-Starting Working with Jest...
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=jest-test-exe)](https://github.com/CodeIsaMystic/jest-test-exe) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=setup-jest-math)](https://github.com/CodeIsaMystic/setup-jest-math) 
-
-
