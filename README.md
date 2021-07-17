@@ -29,9 +29,9 @@
 <br />
 
 <p>Welcome!!  You can reach here everything about my github profile, some personals infos for professionals purposes. <br>
-  You can reach 
+  You can  
   <a href="https://github.com/CodeIsaMystic?tab=repositories" target="_blank">
-    here my repositories
+   find here my repositories
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Inroducing myself, I'm Julien a "product oriented programmer", self-educated fro
 
 <br />
 
-You can reach [here my Portfolio](https://codeisamystic.github.io/semplice-clone-portfolio/) (</ still in dev process >).
+You can [visit here my Portfolio](https://codeisamystic.github.io/semplice-clone-portfolio/) (</ still in dev process >).
 
 <br />
 
@@ -72,20 +72,16 @@ Adapting my lifestyle, getting challenges and being aware of how I should handle
 
 Reading Design, having a nice user experience, think clean, pure and efficient! 
 Customizing and Optimizing layouts is a really great challenge. Defining "Blocks, Elements, Components" needs to be clearly visualized. Defining patterns in a really great way to.
-That's so gratifying to play around with the mix of patterns which are so different and starting manipulate. 
 
-I really love the principals of Design Systems, files architecture organization, CSS's B.E.M approach or some other notions of designing websites attempting to have in mind a great idea of a visual.
+I just like the design systems's principles, the files architecture organization, the CSS's B.E.M approaches or some other notions of designing websites always attempting to have in mind a great idea of a visual.
 
 Designs also must have to consider all the importance of accessibility and must be rich of content.
 
 ## Focusing the products
 
-Some coders just love programming, just think in terms of "algo". They're going deeper on the program, for sure, making a bad ugly bootsrap UI ;) just to make it works and that's fine, we just need advanced stuffs! 
-I'm just not following this way... I need to think the utility of my work is fully related with the User Experience they could have with the product. And even I have to go slowly in terms of programs, I just want my product is a kind of well design, "clean code", complete and simply efficient.
+The utility of working related with the User Experience could have with the product. And even It need to implement great programs, the product needs to be well design, tested, implementing "clean code" and bests pratices...
 
-I cannot develop a software without thinking the potentials issues we could encounter globally. I have to looking at a problem in a User Experience focus, that's my way to do.
-I just make the product primordial.
-
+It develops softwares thinking the potentials issues we could encounter globally, taking the responsability doing great job thinking in terms of "states Management", "Conotrol Flow" and "Code Volume".
 
 </br>
 </br>
@@ -132,4 +128,3 @@ Testing with Jest, Enzyme...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-react-app-todayILearned)](https://github.com/CodeIsaMystic/testing-react-app-todayILearned) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=test-robotfriends-pwa)](https://github.com/CodeIsaMystic/test-robotfriends-pwa) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-simple-react-app)](https://github.com/CodeIsaMystic/testing-simple-react-app)
