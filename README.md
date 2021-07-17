@@ -79,9 +79,9 @@ Designs also must have to consider all the importance of accessibility and must 
 
 ## Focusing the products
 
-The utility of working related with the User Experience could have with the product. And even It need to implement great programs, the product needs to be well design, tested, implementing "clean code" and bests pratices...
+The utility of work related with the Experience users could have with products. And even It need to implement great programs, the product needs to be well design, tested, implementing "clean code" and bests pratices...
 
-It develops softwares thinking the potentials issues we could encounter globally, taking the responsability doing great job thinking in terms of "states Management", "Conotrol Flow" and "Code Volume".
+Attmept to develop softwares and thinking the potentials issues we could encounter globally, taking the responsability doing great job thinking in terms of "states Management, Control Flow and Code Volume".
 
 </br>
 </br>
