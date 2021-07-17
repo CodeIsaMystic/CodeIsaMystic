@@ -133,3 +133,4 @@ Firsts Tests works...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=test-robotfriends-pwa)](https://github.com/CodeIsaMystic/test-robotfriends-pwa) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-simple-react-app)](https://github.com/CodeIsaMystic/testing-simple-react-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=react-testing)](https://github.com/CodeIsaMystic/react-testing)
