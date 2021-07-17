@@ -93,8 +93,6 @@ Attmept to develop softwares and thinking the potentials issues we could encount
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=seo-helper)](https://github.com/CodeIsaMystic/seo-helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=learning-roadmap)](https://github.com/CodeIsaMystic/learning-roadmap)
 
-</br>
-</br>
 
 ### Express.js 
 Basics Server with Express.js.  
@@ -104,8 +102,6 @@ https://github.com/CodeIsaMystic/SettingUpaServer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=random-word-server-api)](https://github.com/CodeIsaMystic/random-word-server-api) 
 
-</br>
-</br>
 
 ### Reactjs.org 
 Some React app from various workshop manipulating APIs, React Hooks, Redux.. 
@@ -121,9 +117,6 @@ Some React app from various workshop manipulating APIs, React Hooks, Redux..
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Complex-react-app)](https://github.com/CodeIsaMystic/Complex-react-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=crwn-clothing-app)](https://github.com/CodeIsaMystic/crwn-clothing-app)  
-
-</br>
-</br>
 
 ### Testing
 Testing with Jest, Enzyme...
