@@ -30,7 +30,7 @@
 
 <p>Welcome!!  You can reach here everything about my github profile, some personals infos for professionals purposes. <br>
   You can reach 
-  <a href="https://github.com/CodeIsaMystic?tab=repositories">
+  <a href="https://github.com/CodeIsaMystic?tab=repositories" target="_blank">
     here my repositories
   </a>
 </p>
@@ -43,15 +43,14 @@
 
 Inroducing myself, I'm Julien a "product oriented programmer", self-educated from France, working to upgrade my skills and experience learning with some of the best personnalities, professionnals, projects and contents I think we have chance to cross over the web. 
 
-- 🌱 I’m currently learning, upgrading my skills. Trying to mastering some and be more confortable (professional) with others.
-- 🔭 I’m currently working on my portfolio, and a student project, a single page app.
-- 💬 Ask me about anything ...
+- 🌱 I’m currently learning, upgrading my skills. Trying to mastering my working approach.
+- 🔭 I’m currently working on my portfolio, and Testing / Learning to manage Complexity.
 - 📫 How to reach me: julienorjollet.wd@gmail.com
 - ⚡ Book: Clean Code of Robert C.Martin
 
 <br />
 
-You can reach here [my Portfolio](https://codeisamystic.github.io/semplice-clone-portfolio/) (</ still in dev process >).
+You can reach [here my Portfolio](https://codeisamystic.github.io/semplice-clone-portfolio/) (</ still in dev process >).
 
 <br />
 
@@ -66,10 +65,8 @@ Following road maps, learning plans, trends and best practices to make my work m
 
 ## Coding as a lifestyle
 
-I think that coding don't necessary need to be a "passion", the main thing it's to love what you're doing day after day. 
-It's just need to adapt your lifestyle, getting some challenges and being aware of what you can and have to do in a special situation...
-After that, it's just cool struggling with issues. It's just enjoying struggling with programs.
-
+For me, "coding" is not a "passion"! It's just the main thing I am loving to do day after day. 
+Adapting my lifestyle, getting challenges and being aware of how I should handle the various situations I may enconter...
 
 ## Designing things 
 
