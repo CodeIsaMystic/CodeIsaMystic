@@ -115,9 +115,6 @@ Some React app from various workshop manipulating APIs, React Hooks, Redux..
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-recognition)](https://github.com/CodeIsaMystic/face-recognition)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=complete-intro-to-react-jowd)](https://github.com/CodeIsaMystic/complete-intro-to-react-jowd) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-redux)](https://github.com/CodeIsaMystic/intermediate-react-redux) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-typescript)](https://github.com/CodeIsaMystic/intermediate-react-typescript) 
-
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Complex-react-app)](https://github.com/CodeIsaMystic/Complex-react-app)
