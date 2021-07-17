@@ -57,8 +57,7 @@ You can reach here [my Portfolio](https://codeisamystic.github.io/semplice-clone
 
 ## Still learning...
 
-...since 2017, I've started to code on my first ugly projects, I'm now figuring out how to build some nice stuff, attempting to be more professionnal every days. I'm following road maps, a learning plans, the trends and working on it. 
-
+Following road maps, learning plans, trends and best practices to make my work more professionnal... 
 
 ## Coding as a lifestyle
 
