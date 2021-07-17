@@ -31,7 +31,7 @@
 <p>Welcome!!  You can reach here everything about my github profile, some personals infos for professionals purposes. <br>
   You can  
   <a href="https://github.com/CodeIsaMystic?tab=repositories" target="_blank">
-   find here my repositories
+   find here my repositories.
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 ## Hello World 👋
 
-Inroducing myself, I'm Julien a "product oriented programmer", self-educated from France, working to upgrade my skills and experience learning with some of the best personnalities, professionnals, projects and contents I think we have chance to cross over the web. 
+Inroducing myself, I'm Julien a "product oriented programmer", from France, working to upgrade skills, experiences and methodologies in learning with some of the best personnalities, professionnals, projects and contents, in my opinion,  which I think we have chance to cross over the web. 
 
 - 🌱 I’m currently learning, upgrading my skills. Trying to mastering my working approach.
 - 🔭 I’m currently working on my portfolio, and Testing / Learning to manage Complexity.
