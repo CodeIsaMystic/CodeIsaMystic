@@ -43,8 +43,8 @@
 
 Inroducing myself, I'm Julien a "product oriented programmer", from France, working to upgrade skills, experiences and methodologies in learning with some of the best personnalities, professionnals, projects and contents, in my opinion,  which I think we have chance to cross over the web. 
 
-- 🌱 I’m currently learning, upgrading my skills. Trying to mastering my working approach.
-- 🔭 I’m currently working on my portfolio, and Testing / Learning to manage Complexity.
+- 🌱 I’m currently learning Javascript, Reactjs, database and computer sciences, upgrading my skills. Trying to mastering my working approach.
+- 🔭 I’m currently working on my portfolio, on testing and learning to manage "Software Complexity".
 - 📫 How to reach me: julienorjollet.wd@gmail.com
 - ⚡ Book: Clean Code of Robert C.Martin
 
