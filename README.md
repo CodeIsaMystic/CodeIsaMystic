@@ -92,7 +92,7 @@ Attmept to develop softwares and thinking the potentials issues we could encount
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=seo-helper)](https://github.com/CodeIsaMystic/seo-helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=learning-roadmap)](https://github.com/CodeIsaMystic/learning-roadmap)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=vscode-in-depth)](https://github.com/CodeIsaMystic/vscode-in-depth)
 
 ### Express.js 
 Basics Server with Express.js.  
@@ -101,7 +101,6 @@ Basics Server with Express.js.
 https://github.com/CodeIsaMystic/SettingUpaServer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=random-word-server-api)](https://github.com/CodeIsaMystic/random-word-server-api) 
-
 
 ### Reactjs.org 
 Some React app from various workshop manipulating APIs, React Hooks, Redux.. 
