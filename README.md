@@ -110,7 +110,6 @@ Some React app from various workshop manipulating APIs, React Hooks, Redux..
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=complete-intro-to-react-jowd)](https://github.com/CodeIsaMystic/complete-intro-to-react-jowd) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=styled-component-library)](https://github.com/CodeIsaMystic/styled-component-library) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Complex-react-app)](https://github.com/CodeIsaMystic/Complex-react-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=all-locations-feature)](https://github.com/CodeIsaMystic/all-locations-feature) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=locations-feature)](https://github.com/CodeIsaMystic/locations-feature) 
 
 
