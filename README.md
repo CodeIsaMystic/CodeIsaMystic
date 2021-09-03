@@ -112,7 +112,6 @@ Some React app from various workshop manipulating APIs, React Hooks, Redux..
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Complex-react-app)](https://github.com/CodeIsaMystic/Complex-react-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=locations-feature)](https://github.com/CodeIsaMystic/locations-feature) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=crwn-clothing-app)](https://github.com/CodeIsaMystic/crwn-clothing-app) 
-https://github.com/CodeIsaMystic/crwn-clothing-app
 
 
 
