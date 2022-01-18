@@ -93,6 +93,7 @@ Attmept to develop softwares and thinking the potentials issues we could encount
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=seo-helper)](https://github.com/CodeIsaMystic/seo-helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=learning-roadmap)](https://github.com/CodeIsaMystic/learning-roadmap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=vscode-in-depth)](https://github.com/CodeIsaMystic/vscode-in-depth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=git-in-depth)](https://github.com/CodeIsaMystic/git-in-depth)
 
 
 ### Server with javascript 
