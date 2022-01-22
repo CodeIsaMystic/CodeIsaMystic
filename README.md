@@ -95,15 +95,6 @@ Attmept to develop softwares and thinking the potentials issues we could encount
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=vscode-in-depth)](https://github.com/CodeIsaMystic/vscode-in-depth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=git-in-depth)](https://github.com/CodeIsaMystic/git-in-depth)
 
-
-### Server with javascript 
-Basics Server with Express.js.  
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](
-https://github.com/CodeIsaMystic/SettingUpaServer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=random-word-server-api)](https://github.com/CodeIsaMystic/random-word-server-api) 
-
 ### Reactjs.org 
 Some React app from various workshop manipulating APIs, React Hooks, Redux.. 
 
