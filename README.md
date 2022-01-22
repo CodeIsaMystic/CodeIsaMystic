@@ -132,13 +132,3 @@ Testing with Jest, Enzyme...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=testing-react-app-todayILearned)](https://github.com/CodeIsaMystic/testing-react-app-todayILearned) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=test-robotfriends-pwa)](https://github.com/CodeIsaMystic/test-robotfriends-pwa) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
-
-
-### Javascript workshop
-Various repos in progress of my road to mastering Javascript! A tuff one !! ;)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=workshop-js)](https://github.com/CodeIsaMystic/workshop-js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=sortable-list-js)](https://github.com/CodeIsaMystic/sortable-list-js) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=fcc-frontend-libraries-repo)](https://github.com/CodeIsaMystic/fcc-frontend-libraries-repo) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=design-pattern-js)](https://github.com/CodeIsaMystic/design-pattern-js) 
