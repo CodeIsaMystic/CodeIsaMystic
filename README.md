@@ -10,7 +10,7 @@
     src="https://i.ibb.co/MNM4n0q/portrait-squared-white.png"
   />
 
-  <h1>Julien Orjollet "Software Developer"</h1>
+  <h1>Julien Orjollet "Web Developer"</h1>
 
   <br />
   
