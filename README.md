@@ -104,8 +104,7 @@ A simple approach of Nodejs by implementing servers, CRUD...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=face-reco-api)](https://github.com/CodeIsaMystic/face-reco-api) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=SettingUpaServer)](https://github.com/CodeIsaMystic/SettingUpaServer) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=completeWebDev-nodeExpress)](https://github.com/CodeIsaMystic/completeWebDev-nodeExpress) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Backend-api-react-app)](https://github.com/CodeIsaMystic/Backend-api-react-app) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=completeWebDev-nodeExpress)](https://github.com/CodeIsaMystic/completeWebDev-nodeExpress)  
 
 
 
@@ -118,35 +117,36 @@ Testing with Jest, React-testing-library, Enzyme...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=test-robotfriends-pwa)](https://github.com/CodeIsaMystic/test-robotfriends-pwa) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
 
-### Mockups
-Some mockup's repositories I've built, a few years ago.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=omfd)](https://github.com/CodeIsaMystic/omfd) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=newTrillo-project)](https://github.com/CodeIsaMystic/newTrillo-project) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=Natours-project)](https://github.com/CodeIsaMystic/Natours-project) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=newGrand-hotel-project)](https://github.com/CodeIsaMystic/newGrand-hotel-project) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=svg-lab-animation)](https://github.com/CodeIsaMystic/svg-lab-animation) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=pen-reveal-on-scroll)](https://github.com/CodeIsaMystic/pen-reveal-on-scroll) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=awww-page-animation-scroll-magic)](https://github.com/CodeIsaMystic/awww-page-animation-scroll-magic) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=bella-design-v2)](https://github.com/CodeIsaMystic/bella-design-v2) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dbsh-admin)](https://github.com/CodeIsaMystic/dbsh-admin) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=dbsh-template)](https://github.com/CodeIsaMystic/dbsh-template) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=semplice-clone-portfolio)](https://github.com/CodeIsaMystic/semplice-clone-portfolio) 
+<br>
+<br>
+<br>
+<br>
 
 ### Links 
 
 #### websites / mockups
 List of some mockups, websites or landing page I've built during my path on programming...
 
-[Trillo](https://codeisamystic.github.io/newTrillo-project/) <br>
-[Natours](https://codeisamystic.github.io/Natours-project/) <br>
-[Grand Hotel](https://codeisamystic.github.io/newGrand-hotel-project/) <br>
-[SVG Lab](https://codeisamystic.github.io/svg-lab-animation/) <br>
-[Pen Reveal](https://codeisamystic.github.io/pen-reveal-on-scroll/) <br>
-[Bella Design](https://codeisamystic.github.io/bella-design-v2/) <br>
-[DBSH Template](https://dbsh69.netlify.app/) <br>
-[DBSH Dashboard](https://codeisamystic.github.io/dbsh-admin/) <br>
-[Semplice Clone](https://codeisamystic.github.io/semplice-clone-portfolio/) <br>
+ 
+[Trillo](https://codeisamystic.github.io/newTrillo-project/) website &nbsp; | &nbsp; [Repo](https://github.com/CodeIsaMystic/newTrillo-project) <br>
+[Natours](https://codeisamystic.github.io/Natours-project/) website  &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/Natours-project)  <br>
+[Grand Hotel](https://codeisamystic.github.io/newGrand-hotel-project/) website &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/newGrand-hotel-project) <br>
+[SVG Lab](https://codeisamystic.github.io/svg-lab-animation/) website  &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/svg-lab-animation) <br>
+[Pen Reveal](https://codeisamystic.github.io/pen-reveal-on-scroll/) website  &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/pen-reveal-on-scroll) <br>
+[Bella Design](https://codeisamystic.github.io/bella-design-v2/) website  &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/bella-design-v2) <br>
+[DBSH Template](https://dbsh69.netlify.app/) website  &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/dbsh-template) <br>
+[DBSH Dashboard](https://codeisamystic.github.io/dbsh-admin/) website  &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/dbsh-admin) <br>
+[Semplice Clone](https://codeisamystic.github.io/semplice-clone-portfolio/) website  &nbsp; | &nbsp;  [Repo](https://github.com/CodeIsaMystic/semplice-clone-portfolio)
+
+<br>
+<br>
+<br>
+
+
+#### my student final project
+Link to the repository of my final student project which gave me the bachelor degree
+
+[DBCS website](https://github.com/CodeIsaMystic/dbcs-website)
 
 
 
