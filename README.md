@@ -119,7 +119,7 @@ Testing with Jest, React-testing-library, Enzyme...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=intermediate-react-about-testing)](https://github.com/CodeIsaMystic/intermediate-react-about-testing) 
 
 ### Mockups
-Some mockups I've built, afew years ago.
+Some mockup's repositories I've built, a few years ago.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=omfd)](https://github.com/CodeIsaMystic/omfd) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CodeIsaMystic&repo=newTrillo-project)](https://github.com/CodeIsaMystic/newTrillo-project) 
